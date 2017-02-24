@@ -1,0 +1,15 @@
+/*
+ For default modal styles
+*/
+
+.modal-content {
+    background-color: #161D20;
+    border-radius: 5px;
+}
+
+.ReactModal__Overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.6) !important;
+}
